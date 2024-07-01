@@ -35,8 +35,8 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 <p align='center'>
    <img src='https://github.com/Rajputniraj6983/weather_app_2/assets/143181391/c97f7c68-77da-468e-9bda-76e871db9370' width=250>;
-   <img src='https://github.com/Rajputniraj6983/weather_app_2/assets/143181391/f9a91926-c727-4504-8a67-6b79d6375121' width=250>;
-   
+   <img src='https://github.com/Rajputniraj6983/weather_app_2/assets/143181391/49fb6206-0634-4817-919a-188c4d72ff61' width=250>;
+   <img src='https://github.com/Rajputniraj6983/weather_app_2/assets/143181391/71e039f9-08ba-49ff-a88b-458d58519b42' width=250>;
 </p>
 
 
